@@ -1,0 +1,14 @@
+# Ignore audio templates
+templates/audios/
+
+# Ignore image templates
+templates/images/
+
+# Ignore video templates
+templates/videos/
+
+# Ignore other asset templates
+templates/assets/
+
+# Ignore Python bytecode files
+__pycache__/
